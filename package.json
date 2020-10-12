@@ -1,0 +1,14 @@
+{
+  "name": "@zachcmp/simple-breadcrumbs",
+  "version": "1.0.0",
+  "description": "Simple React breadcrumbs helpers",
+  "main": "index.js",
+  "repository": "https://github.com/ZachCMP/simple-breadcrumbs.git",
+  "author": "Zach Parks <zparks88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.9.52",
+    "react": "^16.13.1",
+    "typescript": "^4.0.3"
+  }
+}
